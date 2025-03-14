@@ -1,4 +1,6 @@
 # arch-install
+![image](https://github.com/user-attachments/assets/ae708da9-8878-4bc1-9e23-385f2e76e4b3)
+
 i use arch btw
 
 simple
@@ -12,6 +14,8 @@ simple
 8. i tried refind but failed so i stuck with GRUB
 9. use grub-install and grub-mkconfig
 10. oh well flex now "i use arch btw" (go and spam comments and public forums)
+
+Run neofetch thousand times a day
 
 easiest distro fr
 
