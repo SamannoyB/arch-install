@@ -12,3 +12,7 @@ simple
 8. i tried refind but failed so i stuck with GRUB
 9. use grub-install and grub-mkconfig
 10. oh well flex now "i use arch btw" (go and spam comments and public forums)
+
+easier distro well
+well smart linux pants go and use Gentoo and Funtoo now :p
+i wont help you when portage gonna install firefox for a millenium
