@@ -1,5 +1,5 @@
 # arch-install
-![image]("https://github.com/user-attachments/assets/568564ac-94a5-4f7e-8337-811a1561a57e")
+![image](https://github.com/user-attachments/assets/66444fb6-e76f-42db-8b18-2e03d7880773)
 
 i use arch btw
 
